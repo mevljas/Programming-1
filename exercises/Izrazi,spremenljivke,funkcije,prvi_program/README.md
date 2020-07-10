@@ -2,9 +2,9 @@
 # Naloge
 Nekatere naloge zahtevajo uporabo matematičnih konstant in funkcij, kot so pi, sqrt (kvadratni koren), sin, cos in podobnih. Python jih nima, vendar jih skrivnostno dobi, če na začetek programa dodamo
 
-'''
+`
 from math import *
-'''
+`
 
 ## Pretvarjanje temperatur
 Program, ki ste ga napisali na predavanjih:
