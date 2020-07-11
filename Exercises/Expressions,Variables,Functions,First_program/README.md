@@ -89,7 +89,7 @@ The first number? TYPE USER 6
 Another number? TYPE USER 7
 42.0
 ```
-
+<hr>
 # Those who are bored by this task ...
 ... and because they might complain, they can have fun with things we haven’t learned otherwise.
 
@@ -98,3 +98,24 @@ Another number? TYPE USER 7
 ***Already know how to program, and that in Python?*** Somewhere between the cannon and the target is a tree (it can also be very tall; maybe a bean going into the sky). On the branch of this tree (or bean) sits a pig. We would like to hit the pig and the target with the same bullet. So write a program that reads the distance to the target and the distance and height of the pig. The program should display the angle and speed at which the bullet should be fired.
 
 There are two ways to solve the second task. You can write a program that tries to find a solution by one way or another. However, you can use your knowledge of physics or mathematics. Or, better yet, use both.
+<hr>
+# Task: Two programs that should be fixed
+This one should calculate Pythagora's theorem, but it doesn't.
+```
+a = imput ("first leg")
+b = imput ("second leg")
+c = sqrt (a ^ 2 + b ^ 2)
+print (The length of the hypotenuse is, c)
+```
+
+This one asks for two numbers and their product, and displays the user's answers and the right product. But it doesn’t work either!
+```
+name = input ("What's your name?")
+print ("Hello, ', name,' would you practice counting?")
+int ("(Come on. Enter the first factor.")
+int (input ("And another factor."))
+result = a * b
+c = input ("How much do you think the product is?")
+print ("You wrote that", a, "times", b, "same", c)
+print ("The correct answer is", the result)
+```
