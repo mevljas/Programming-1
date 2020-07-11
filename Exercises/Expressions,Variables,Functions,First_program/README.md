@@ -89,3 +89,12 @@ The first number? TYPE USER 6
 Another number? TYPE USER 7
 42.0
 ```
+
+# Those who are bored by this task ...
+... and because they might complain, they can have fun with things we haven’t learned otherwise.
+
+***You already know how to program, but not in Python?*** Then you know that there are if and while and such things. Write a program that tells you how far you need to shoot. The user must enter different angles and speeds until he hits the target at a given distance. The target is hit if the difference between the actual and actual lightning length is less than so much and so much.
+
+***Already know how to program, and that in Python?*** Somewhere between the cannon and the target is a tree (it can also be very tall; maybe a bean going into the sky). On the branch of this tree (or bean) sits a pig. We would like to hit the pig and the target with the same bullet. So write a program that reads the distance to the target and the distance and height of the pig. The program should display the angle and speed at which the bullet should be fired.
+
+There are two ways to solve the second task. You can write a program that tries to find a solution by one way or another. However, you can use your knowledge of physics or mathematics. Or, better yet, use both.
