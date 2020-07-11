@@ -23,7 +23,7 @@ The radius of the circle? USER WRITES 4.2
 Circle circumference: 26.389378290154262
 Circle area: 55.41769440932395
 ```
-## Pythagora's theorem
+## Pythagoras theorem
 Write a program that asks the user about the lengths of the legs of a right triangle and prints the length of the hypotenuse. As it says at the top of the page, we use the sqrt function for the root, which we get if we write from math import * at the beginning of the program.
 ```
 Kateta? TYPE USER 3
@@ -100,7 +100,7 @@ Another number? TYPE USER 7
 There are two ways to solve the second task. You can write a program that tries to find a solution by one way or another. However, you can use your knowledge of physics or mathematics. Or, better yet, use both.
   
 # Task: Two programs that should be fixed
-This one should calculate Pythagora's theorem, but it doesn't.
+This one should calculate Pythagoras theorem, but it doesn't.
 ```
 a = imput ("first leg")
 b = imput ("second leg")
