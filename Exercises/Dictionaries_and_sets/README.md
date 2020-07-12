@@ -116,7 +116,7 @@ The problem is that we don’t know the key. We only know that it is somewhere b
 'JqKdNg\\wK|\x19uLa]lWb'
 >>> sifriraj('JqKdNg\\wK|\x19uLa]lWb', 1337)
 'strawberry pudding'
->>> sifra('JqKdNg\\wK|\x19uLa]lWb')  # To funkcijo morate napisati vi
+>>> sifra('JqKdNg\\wK|\x19uLa]lWb')  # TODO
 'strawberry pudding'
 ```
 Hint:
