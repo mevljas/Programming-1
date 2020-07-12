@@ -60,7 +60,7 @@ t.right ()
 t.forward (40)
 t.hide ()
 ```
-draws
+draws  
 <img src="https://ucilnica.fri.uni-lj.si/file.php/166/zelva/stamps.gif" 
 alt="zelva" />
 
