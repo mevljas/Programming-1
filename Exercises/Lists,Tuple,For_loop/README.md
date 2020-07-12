@@ -9,7 +9,7 @@ At the end of the program, write:
 print (videl_sem_42)
 if videl_sem_42:
     print ("I really saw 42.")
-    ```
+```
 There should be no other prints in the program.
 
 The program should print True or False (only once!) And then I really saw 42 if it printed True previously.
