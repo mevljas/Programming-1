@@ -5,7 +5,7 @@ For a particular grade, you must also solve all the tasks required for a lower g
 
 ## Score 6
 We have a list of pairs of names of actors and movies in which they have played, for example
-
+```
 [("Ana", "From Čatež to Litija"),
  ("Berta", "From Čatež to Litija"),
  ("Ana", "Harry Potter 4"),
@@ -14,6 +14,7 @@ We have a list of pairs of names of actors and movies in which they have played,
  ("Days", "Harry Potter 4"),
  ("Emma", "Star Trek DS-9"),
 ]
+```
 If an actor plays in multiple films, he appears several times; so Ana played in From Čatež to Litija and in Harry Potter 4.
 
 Write the following functions
