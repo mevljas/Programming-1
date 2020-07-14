@@ -9,7 +9,7 @@ Watch the game [Chain Reaction](https://yvoschaap.com/chainrxn/).
 
 - **For grade 9**: Program one level of play. The game runs as long as there are some exploded balls, and when the last one disappears, it is displayed how many balls exploded. This concludes the program.
 
-- **For a grade of 10**: Program a game with 10 levels. At the beginning of each level, it is written how many balls are in play and how many exploded. In the end, when the last exploded ball disappears, the game continues to the next level if enough balls have exploded. Otherwise, a window appears stating how many balls have exploded and that this is too few; the game is repeated at the same level. Invent meaningful numbers of balls. The rates must, of course, vary.
+- **For a grade of 10**: Program a game with 10 levels. At the beginning of each level, it is written how many balls are in play and how many exploded. In the end, when the last exploded ball disappears, the game continues to the next level if enough balls have exploded. Otherwise, a window appears stating how many balls have exploded and that this is too few; the game is repeated at the same level. Invent meaningful numbers of balls. The rates must, of course, vary.  
 [![Video](http://img.youtube.com/vi/DXeBpQwOt5g/0.jpg)](http://www.youtube.com/watch?v=DXeBpQwOt5g)
 
 Details:
