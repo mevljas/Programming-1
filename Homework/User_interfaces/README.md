@@ -1,4 +1,4 @@
-#Balls
+# Balls
 Watch the game [Chain Reaction](https://yvoschaap.com/chainrxn/).
 
 - **For grade 6**: Compose a program that draws one ball of random color that appears at a random spot and moves in a random direction (see details below!). When it comes to the edge, it bounces off, just like you learned in Physics. It should bounce for about twenty seconds, then the program ends.
